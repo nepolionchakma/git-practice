@@ -1,7 +1,1 @@
 Hello 1
-
-Hi added
-
-welcome to git practice
-
-How are you
